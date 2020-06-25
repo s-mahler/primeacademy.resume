@@ -3,7 +3,7 @@ main {
   background-color: #FDFFED;
   border: hidden;
   border-radius: 30px;
-  height: 1000px;
+  height: auto;
 }
 
 body {
