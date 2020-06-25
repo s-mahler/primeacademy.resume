@@ -1,5 +1,8 @@
 main {
   font-family: Arial, sans-serif;
+  background-color: #CECBF7;
+  border: hidden;
+  border-radius: 30px;
 }
 
 h1 {
