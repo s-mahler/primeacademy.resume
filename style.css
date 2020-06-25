@@ -3,10 +3,11 @@ main {
   background-color: #FDFFED;
   border: hidden;
   border-radius: 30px;
+  height: 1000px;
 }
 
 body {
-  padding: 100px;
+  padding: 500px;
 }
 
 h1 {
