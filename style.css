@@ -1,9 +1,13 @@
 main {
   font-family: Arial, sans-serif;
-  background-color: #CECBF7;
+  background-color: #FDFFED;
   border: hidden;
   border-radius: 30px;
   height: 1000px;
+}
+
+body {
+  width: 75%;
 }
 
 h1 {
