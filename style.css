@@ -3,7 +3,8 @@ main {
   background-color: #FDFFED;
   border: hidden;
   border-radius: 30px;
-  height: 1000px;
+  height: 100%;
+  width: 100%
 }
 
 body {
