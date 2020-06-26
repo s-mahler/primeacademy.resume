@@ -1,13 +1,10 @@
-main {
+body {
   font-family: Arial, sans-serif;
   background-color: #FDFFED;
   border: hidden;
   border-radius: 30px;
   height: auto;
-}
-
-body {
-  padding: 0 250px 0 250px;
+  padding: 0 250px 0 250px
 }
 
 h1 {
