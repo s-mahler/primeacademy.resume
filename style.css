@@ -1,24 +1,30 @@
+main {
+    font-family: Arial, sans-serif;
+    background-color: #FDFFED;
+    border: hidden;
+    border-radius: 30px;
+    height: auto;
+}
+
 body {
-  font-family: Arial, sans-serif;
-  background-color: #FDFFED;
-  border: hidden;
-  border-radius: 30px;
-  height: auto;
-  padding: 0 250px 0 250px;
+    padding:  0 250px 0 250px;
 }
-
+  
 h1 {
-  text-align: center;
+    text-align: center;
 }
-
+  
 h3 {
-  border-bottom: 3px #000000;
-  padding: 50px;
-
+    border-bottom: 3px #000000;
+    padding: 50px;
+}
+  
 .left {
-  float: left;
+    float: left;
 }
-
+  
 .right {
-  float: right;
+    float: right;
 }
+  
+  
