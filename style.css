@@ -17,8 +17,10 @@ h1 {
 h3 {
     border-bottom: 3px #000000;
     margin: 50px 0px 0px 0px;
-    text-align: left;
 }
+
+#education {
+    float: left;
   
 .left {
     float: left;
