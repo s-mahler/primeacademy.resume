@@ -30,4 +30,5 @@ h2 {
   
 .right {
     float: right;
+    margin: 0;
 }
