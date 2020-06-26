@@ -1,6 +1,6 @@
 main {
     font-family: Arial, sans-serif;
-    background-color: #FDFFED;
+    background-color: #b0b0b0;
     border: hidden;
     border-radius: 30px;
     height: auto;
@@ -20,15 +20,15 @@ h2 {
 }
 
 h4 {
-    color: #383838;
+    color: #7a7a7a;
 }
 
 p {
-    color: #383838;
+    color: #7a7a7a;
 }
 
 li {
-    color: #383838;
+    color: #7a7a7a;
 }
 
 #education {
@@ -37,12 +37,10 @@ li {
 
 div#education > h4 {
     margin: 0;
-    color: #383838;
 }
 
 div#education > p {
     margin-top: 0;
-    color: #383838;
 }
     
 .left {
