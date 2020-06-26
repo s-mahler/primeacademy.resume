@@ -4,6 +4,7 @@ main {
     border: hidden;
     border-radius: 30px;
     height: auto;
+    padding: 0 15%;
 }
 
 body {
