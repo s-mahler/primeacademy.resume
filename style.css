@@ -22,6 +22,10 @@ h2 {
 #education {
     margin: 6em 0 0 0;
 }
+
+p #education {
+    margin: 0;
+}
   
 .left {
     float: left;
