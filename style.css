@@ -25,7 +25,7 @@ h2 {
   
 .left {
     float: left;
-    margin: 0;
+    margin: auto auto 0 auto;
 }
   
 .right {
