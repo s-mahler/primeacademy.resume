@@ -25,10 +25,12 @@ h2 {
 
 div#education > h4 {
     margin: 0;
+    color: #636363;
 }
 
 div#education > p {
     margin-top: 0;
+    color: #636363;
 }
     
 .left {
